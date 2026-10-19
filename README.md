@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JJDunphy
-- 👀 I’m interested in Web Development and creating innovative projects
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React
+- 👋 Hi, I’m @Resed
+- 👀 I’m working in the Financial Services industry currently as an AI & Automation Developer.
+- 🌱 I’m currently learning how to create RuneScape 3 plugins.
 
 <!---
 JJDunphy/JJDunphy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
